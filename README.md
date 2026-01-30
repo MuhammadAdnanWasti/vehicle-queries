@@ -1,4 +1,6 @@
 ERD: https://drawsql.app/teams/mohammad-adnan/diagrams/vehicle-rent
+
+
 📌 Query 1 — Booking Details with Customer & Vehicle Info
 
 This query retrieves complete booking information along with customer name and vehicle name by joining Bookings, Users, and Vehicles tables.
